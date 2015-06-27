@@ -1,5 +1,5 @@
 <footer class="footer">
-    <div class="container">
+    
         <p class="text-muted">
             
                         <a href="https://www.linkedin.com/profile/view?id=199613605&trk=nav_responsive_tab_profile_pic" ><i class="fa fa-copyright"></i></a>
@@ -10,5 +10,5 @@
             &nbsp;&nbsp;<a href="https://www.goodreads.com/user/show/16076734-mohit-shukla"><i class="fa fa-book fa-1x"></i></a>
             &nbsp;&nbsp;<a href="https://github.com/mohitsh"><i class="fa fa-github-square fa-1x"></i></a>
         </p>
-    </div>
+    
 </footer>

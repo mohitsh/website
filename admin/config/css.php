@@ -9,7 +9,8 @@
 <style>
     
     #btn-debug{
-        position: absolute;
+        /*position: absolute;
+        right: 5px;*/
     }
     #console-debug{
         position: absolute;
